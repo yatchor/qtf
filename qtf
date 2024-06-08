@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdn.staticfile.net/font-awesome/4.7.0/css/font-awesome.css">
+</head>
+<body>
+    <div style="
+        font-size: 50px;
+        max-width: 600px;
+        margin: 50px auto;
+        margin-top: 300px;
+        ">
+     <ul class="fa-ul">
+            <li><i class="fa-li fa fa-check-square"></i>邱童霏已决心</li>
+            <li><i class="fa-li fa fa-spinner fa-spin"></i>进化中</li>
+            <li><i class="fa-li fa fa-square"></i>打造优秀的邱童霏</li>
+    </ul>
+    </div>
+    <div style="
+        color: rgb(153, 2, 199);
+        text-align: center;
+    ">
+        <h1>所以，你一定要加油啊！</h1>
+        <h1>❤爱你❤</h1>
+    </div>
+</body>
+</html>
